@@ -15,7 +15,7 @@ var preguntasRouter = require('./routes/api/preguntas');
 var laboratoriosRouter = require('./routes/api/laboratorios');
 var respuestasRouter = require('./routes/api/respuestas');
 
-
+//comit 2
 var app = express();
 
 // view engine setup
